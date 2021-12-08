@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996009323118",
+    "project_id": "mtms-bdb9d",
+    "storage_bucket": "mtms-bdb9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996009323118:android:a1b6633e75cee17d75947f",
+        "android_client_info": {
+          "package_name": "com.mtms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996009323118-hdjnmcut9vjpabsli2qu91ikgi6fsnu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzvaGkG8K-ei3PdcjAhHaUHQ9SBJ7X56c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996009323118-hdjnmcut9vjpabsli2qu91ikgi6fsnu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
